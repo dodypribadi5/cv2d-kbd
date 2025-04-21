@@ -1,6 +1,0 @@
-kind: wasmer.io/App.v0
-name: cv2d-kbd
-owner: dodypribadi5
-package: .
-scaling:
-  mode: single_concurrency
