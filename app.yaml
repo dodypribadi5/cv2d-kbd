@@ -1,5 +1,5 @@
 kind: wasmer.io/App.v0
-name: wasmer-php-result
+name: cv2d-kbd
 owner: dodypribadi5
 package: .
 scaling:
